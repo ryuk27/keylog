@@ -1,6 +1,6 @@
 # Node-Keylogger  
 
-A simple Node.js Linux-only (for now) keylogger using events for keyboard input tracking.  
+A simple Node.js Linux-only keylogger using events for keyboard input tracking.  
 
 ## Table of Contents  
 
